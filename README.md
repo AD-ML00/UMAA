@@ -9,8 +9,8 @@ requirements
 
 usage
 $python main.py -mn UMAA -d SMAP -w 12 -e 10 -b 32
-   # mn : model name
-   # d : dataset
-   # w : window size
-   # e : epoch
-   # b : batch size
+   -mn : model name
+   -d : dataset
+   -w : window size
+   -e : epoch
+   -b : batch size
